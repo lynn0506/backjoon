@@ -1,3 +1,3 @@
-## Backjoon Progrmmaing Problems
-### id: lynn0506 
+## Backjoon Programming Problems
+### Id: lynn0506 
 ### <https://www.acmicpc.net>
