@@ -55,7 +55,7 @@ void calculate() {
         if(check[i] == 0) {
             long int b = atol(CH[i+1][1]);
             if(CH[i][0][0] == '+') {
-                sum += b;
+                sum += b;b
             } else if(CH[i][0][0] == '-'){
                 sum -= b;
             } else {
