@@ -1,4 +1,4 @@
-## Backjoon Programming Problems
+## Baekjoon Online Judge Programming Problems
 ### Id: lynn0506 
 ### <https://www.acmicpc.net>
 
